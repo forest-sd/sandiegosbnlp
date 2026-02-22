@@ -17,4 +17,34 @@
   <url><loc>https://sandiegosbnlp.org/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://sandiegosbnlp.org/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://sandiegosbnlp.org/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://sandiegosbnlp.org/blog/building-effective-small-business-networks/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sandiegosbnlp.org/blog/digital-marketing-strategies-for-local-businesses/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sandiegosbnlp.org/blog/navigating-small-business-regulations-and-compliance/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sandiegosbnlp.org/blog/small-business-financing-options-beyond-bank-loans/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sandiegosbnlp.org/blog/the-economic-multiplier-effect-of-local-spending/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
